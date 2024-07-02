@@ -1,0 +1,64 @@
+.header{
+    font-size: 100px;
+    background-image: url('images/cafe.jpg');
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+    padding-left: 50px;
+    color: white;
+    padding-top: 70px;
+    text-align: left;
+    margin-bottom: 50px;
+    border-bottom: 2px solid chocolate;
+    max-width: 900px;
+    
+    
+}
+
+.img{
+   width: 110px;
+   display: inline;
+   border-radius: 7px;
+}
+.bodydiv{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    margin: 0;
+    padding: 0;
+    background-image: url(images/bg.jpg);
+    
+}
+
+.div1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 2px solid chocolate;
+    padding: 20px;
+    border-radius: 18px;
+    max-width: 800px;
+    box-shadow: 1px 1px 4px 1px brown;
+}
+.text1{
+   font-size: 16px;
+   text-align: justify;
+    
+}
+.button1{
+    border: none;
+    color: brown;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
